@@ -4,13 +4,6 @@
 
 Note: you can't edit this repo. You can only edit in a fork(of this repo) that belongs to you and then you create a pull request to merge those changes into this repo.
 
-----
-Guruprasad Nayak (github user: I-c-e-m-a-n)
-Computer Science UD 2023
-C++
-----
-
-
 ```Please use two lines to separate in the README text. I will get us started:```
 
 Vineeth Gutta, 2nd year CISC PhD student, favorite programming language is Java
@@ -18,3 +11,5 @@ Vineeth Gutta, 2nd year CISC PhD student, favorite programming language is Java
 John Doe, Senior ELEG student, favorite programming language is Bash
 
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
+
+Guruprasad Nayak (github user: I-c-e-m-a-n), Sophmore Computer Science, Favorite programming language is Cow (https://www.houseofbots.com/news-detail/4489-1-worlds-most-popular-5-hardest-programming-language)
